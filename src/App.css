@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.location-search-input {
+  padding: 1rem;
+  min-width: 280px;
+}
+.autocomplete_wrapper {
+  color: black;
+  font-size: 0.875rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
