@@ -4,6 +4,10 @@ import PlacesAutocomplete, {
   getLatLng,
 } from "react-places-autocomplete";
 
+
+//NOTE: USE YOUR OWN GOOGLE API KEY API IN "public/index.html"
+/* <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script> */
+
 export default function LocationSearchInput() {
   const [state, setState] = useState({ address: "" });
 

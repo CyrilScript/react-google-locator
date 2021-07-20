@@ -2,9 +2,6 @@ import "./App.css";
 import AutoCompleteLocate from "./locate/AutoCompleteLocate";
 import DirectLocation from "./locate/DirectLocation";
 
-//NOTE: USE YOUR OWN GOOGLE API KEY API IN "public/index.html"
-/* <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places"></script> */
-
 function App() {
   return (
     <div className="App">
