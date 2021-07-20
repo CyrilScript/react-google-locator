@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
+
+## react google locator
+Contains both autocomplete and direct location detection with react
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
